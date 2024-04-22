@@ -73,7 +73,7 @@ This page contains the **Interfaces** table, where information about each interf
 
 ### Assets
 
-This page displays the **Assets** table, where information about each asset is displayed, as well as the **total number of VOD**, **live** and **nPVR assets**.
+This page displays the **Assets** table, where information about each asset is displayed, as well as the **total number of VOD**, **live** and **nPVR assets**. This page also includes the **Output Statuses** table, which lists all the outputs of each Asset.
 
 ### VOD
 
