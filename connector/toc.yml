@@ -1566,6 +1566,8 @@
     topicUid: Connector_help_Beenius_IPTV_Delivery_Platform
 - name: BeIN
   items:
+  - name: beIN Arvato VPMS Doha
+    topicUid: Connector_help_beIN_Arvato_VPMS
   - name: beIN GPIO Mapping
     topicUid: Connector_help_beIN_GPIO_Mapping
 - name: Belgacom
@@ -2086,6 +2088,8 @@
     topicUid: Connector_help_Cisco_GS7000_Hub
   - name: CISCO GS7000 Node
     topicUid: Connector_help_CISCO_GS7000_Node
+  - name: Cisco IMC
+    topicUid: Connector_help_Cisco_IMC
   - name: Cisco ISE
     topicUid: Connector_help_Cisco_ISE
   - name: CISCO ISR
@@ -4121,7 +4125,7 @@
   - name: Grass Valley MV-8 Series
     topicUid: Connector_help_Grass_Valley_MV-8_Series
   - name: Grass Valley MV-Flex-32-R
-    topicUid: Connector_help_Grass_Valley_MV_Flex_32_R
+    topicUid: Connector_help_Grass_Valley_MV-FLEX-32-R
   - name: Grass Valley Orbit
     topicUid: Connector_help_Grass_Valley_Orbit
   - name: Grass Valley Orbit - Device
@@ -8500,6 +8504,8 @@
     topicUid: Connector_help_TeamCast_Vyper_DVBSS2_SNMP
 - name: Techex
   items:
+  - name: Techex Darwin
+    topicUid: Connector_help_Techex_Darwin
   - name: Techex MW4 Server
     topicUid: Connector_help_Techex_MW4_Server
   - name: Techex MW4 Server - Generic Device
@@ -9332,6 +9338,10 @@
   items:
   - name: VideoLAN - VLC Media Player Control
     topicUid: Connector_help_VideoLAN_-_VLC_Media_Player_Control
+- name: VideoShip
+  items:
+  - name: VideoShip
+    topicUid: Connector_help_VideoShip
 - name: Vidispine
   items:
   - name: Vidispine API Client
@@ -9776,7 +9786,3 @@
     topicUid: Connector_help_ZTE_ZXR10_2900E_Series
   - name: ZTE ZXR10 8900
     topicUid: Connector_help_ZTE_ZXR10_8900
-- name: Unknown vendor
-  items:
-  - name: VideoShip
-    topicUid: Connector_help_VideoShip
